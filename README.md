@@ -1,10 +1,10 @@
 # 👨🏻‍💻 Khamutskiy Dmitriy
 
-<p align="left">I'm a Data Scientist & ML Engineer with 1+ years experience. I'm interested in delivering valuable ML/OR-based solutions of complex problems to business and customers. I have a strong passion for math, the ability to quickly grasp complex concepts, and a commitment to continually learn and master various topics and technologies</p>
+<p align="left">I'm a Data Scientist/ML Engineer with 1+ years experience. I'm interested in delivering valuable ML/OR-based solutions of complex problems to business and customers. I have a strong passion for math, the ability to quickly grasp complex concepts, and a commitment to continually learn and master various topics and technologies</p>
 
 # 💻 Tech Stack
 
-### 🚀 Programming Languages
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-TeX-008080?style=flat&logo=latex&logoColor=white" />
 </p>
 
-### 🤖 ML Frameworks and Libraries
+### ML Frameworks and Libraries
 <p>
   <img src="https://img.shields.io/badge/-XGBoost-EB5B0D?style=flat&logo=xgboost&logoColor=white" />
   <img src="https://img.shields.io/badge/-LightGBM-00BFFF?style=flat&logo=lightgbm&logoColor=white" />
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-Dask-FF5722?style=flat&logo=dask&logoColor=white" />
 </p>
 
-### 🏗️ Optimization Frameworks and Libraries
+### Optimization Frameworks and Libraries
 <p>
   <img src="https://img.shields.io/badge/-Gurobi-CC0000?style=flat&logo=gurobi&logoColor=white" />
   <img src="https://img.shields.io/badge/-CasADi-0078D7?style=flat&logo=python&logoColor=white" />
@@ -37,25 +37,25 @@
   <img src="https://img.shields.io/badge/-do--MPC-009688?style=flat&logo=python&logoColor=white" />
 </p>
 
-### 📊 Data Visualization
+### Data Visualization
 <p>
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Seaborn-0081A7?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
 </p>
 
-### 📦 Tracking, Monitoring, and Testing
+### Tracking, Monitoring, and Testing
 <p>
   <img src="https://img.shields.io/badge/-MLFlow-0078D7?style=flat&logo=mlflow&logoColor=white" />
 </p>
 
-### 🗄 Storage and Databases
+### Storage and Databases
 <p>
   <img src="https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
-### 🤝 Collaboration and Version Control
+### Collaboration and Version Control
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
