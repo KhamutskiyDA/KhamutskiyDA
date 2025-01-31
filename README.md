@@ -4,8 +4,10 @@
 
 # 🌐 links
 
-<div align="left">
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)](https://t.me/KhamutskiyDA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/khamutskiyda/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:dima.khamutskiy@mail.ru)
+[![Resume](https://img.shields.io/badge/Resume-Download-green?logo=read-the-docs)](https://drive.google.com/drive/folders/1Nr6fhQPpaHAkvGnF2KSo5KFQft5YDfwQ?usp=share_link)
 
 # 💻 Tech Stack
 
