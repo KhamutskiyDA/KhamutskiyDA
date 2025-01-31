@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Data Scientist/ML Engineer with 1+ years experience. I'm interested in delivering valuable ML/OR-based solutions of complex problems to business and customers. I have a strong passion for math, the ability to quickly grasp complex concepts, and a commitment to continually learn and master various topics and technologies</p>
+<p align="left">I'm a Data Scientist & ML Engineer with 1+ years experience. I'm interested in delivering valuable ML/OR-based solutions of complex problems to business and customers. I have a strong passion for math, the ability to quickly grasp complex concepts, and a commitment to continually learn and master various topics and technologies</p>
 
 ###
 
